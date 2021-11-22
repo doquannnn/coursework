@@ -21,3 +21,5 @@ def detect(image_path, pedes_weight):
 
 
 detect('images/crossing.jpeg', 'pedestrian.xml')
+
+
